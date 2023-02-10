@@ -30,7 +30,7 @@ To run:
 ```
 export FLASK_APP = main.py
 flask run
-Go to postman and request with post "http://127.0.0.1:5000" in search bar
+Go to postman and request with post "http://127.0.0.1:5000/extract_text" in search bar
 pass video in form data as videoFile
 ```
 
